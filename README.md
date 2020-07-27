@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src=".github/my-octocat.png" height="400px">
+  <img src="my-octocat.png" height="400px">
 
   <div>
-    <a href="www.linkedin.com/in/silvaedersonqueiroz" alt="linkedin" target="blank"><img src=".github/linkedin.svg" style=" height:40px;margin: 0 10px 0 10px"></a>    
-    <a href="mailto:silva.edersonqueiroz@gmail.com" alt="email" ><img src=".github/gmail.svg" style=" height:40px;margin: 0 10px 0 10px"></a>   
+    <a href="www.linkedin.com/in/silvaedersonqueiroz" alt="linkedin" target="blank"><img src="linkedin.svg" style=" height:40px;margin: 0 10px 0 10px"></a>    
+    <a href="mailto:silva.edersonqueiroz@gmail.com" alt="email" ><img src="gmail.svg" style=" height:40px;margin: 0 10px 0 10px"></a>   
   </div>
 
   <h3>Hello, I'm Ederson Davi! 👋</h3>
