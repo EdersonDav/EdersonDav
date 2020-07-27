@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github.com/EdersonDav/EdersonDav/blob/master/my-octocat.png?raw=true" height="400px">
+  <img src="https://github.com/EdersonDav/EdersonDav/blob/master/assets/my-octocat.png?raw=true" height="400px">
 
   <div>
     <a href="https://www.linkedin.com/in/silvaedersonqueiroz" alt="linkedin" target="blank" ><img src="https://raw.githubusercontent.com/EdersonDav/EdersonDav/f0c6e3ec72692acc7a46d63572e729b8b522ba26/linkedin.svg" height="40px"></a>    
