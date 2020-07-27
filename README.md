@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **EdersonDav/EdersonDav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src=".github/my-octocat.png" height="400px">
+
+  <div>
+    <a href="www.linkedin.com/in/silvaedersonqueiroz" alt="linkedin" target="blank"><img src=".github/linkedin.svg" style=" height:40px;margin: 0 10px 0 10px"></a>    
+    <a href="mailto:silva.edersonqueiroz@gmail.com" alt="email" ><img src=".github/gmail.svg" style=" height:40px;margin: 0 10px 0 10px"></a>   
+  </div>
+
+  <h3>Hello, I'm Ederson Davi! 👋</h3>
+  <p> 👨🏿‍💻
+  JavaScript | Node.js | ReactJS | HTML | CSS | Bootstrap | C# | SQL Server | MongoDB 
+  </p>
+ <p>🌎 I live in Suzano, São Paulo.</p>
+ <p>🖤 I love to learn about programming</p>
+ <p>🎂 I'm 25 years old</p>
+ <p>💼 My goal is to work with the React stack and grow more and more as a developer</p>
+</div>
