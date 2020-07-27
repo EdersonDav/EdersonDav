@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   <div>
     <a href="www.linkedin.com/in/silvaedersonqueiroz" alt="linkedin" target="blank"><img src="./assets/linkedin.svg" height="40px"></a>    
-    <a href="mailto:silva.edersonqueiroz@gmail.com" alt="email" ><img src="./assets/gmail.svg" height="40px"></a>   
+    <a href="mailto:silva.edersonqueiroz@gmail.com" alt="email" ><img src="https://raw.githubusercontent.com/EdersonDav/EdersonDav/bb083120cecd3882201ac72ad56c63fbe71c9fb8/gmail.svg" height="40px"></a>   
   </div>
 
   <h3>Hello, I'm Ederson Davi! 👋</h3>
