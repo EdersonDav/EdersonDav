@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   <h3>Hello, I'm Ederson Davi! 👋</h3>
   <p> 👨🏿‍💻
-  JavaScript | Node.js | ReactJS | HTML | CSS | C# | SQL Server | MongoDB 
+  JavaScript | TypeScript | Node.js | ReactJS | React-Native | HTML | CSS | C# | SQL Server | MongoDB 
   </p>
  <p>🌎 I live in Suzano, São Paulo.</p>
  <p>🖤 I love to learn about programming</p>
