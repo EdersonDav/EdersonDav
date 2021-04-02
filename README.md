@@ -27,5 +27,5 @@ Here are some ideas to get you started:
  <p>🎂 I'm 25 years old</p>
  <p>💼 My goal is to work with the React stack and grow more and more as a developer</p>
  
- ![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=edersondav&show_icons=true&hide_border=true)
+ ![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=edersondav&show_icons=true&theme=dracula&count_private=true)
 </div>
