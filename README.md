@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <p> 👨🏿‍💻
   JavaScript | TypeScript | Node.js | ReactJS | NextJS | HTML | CSS | SQL | MongoDB 
   </p>
- <p>🌎 I live in Suzano, São Paulo.</p>
+ <p>🌎 I live in Porto, Portugal.</p>
  <p>🖤 I love to learn about programming</p>
  <p>🎂 I'm 26 years old</p>
  <p>💼 My goal is to work with the React stack and grow more and more as a developer</p>
